@@ -1,0 +1,47 @@
+ 
+h1 {
+    border: dashed red;
+    color: black; 
+    padding: 10px;
+    text-align: left; 
+    
+}
+*{
+    background-image: url("amagif.gif");
+}
+#hw {
+    
+    color: black;
+    border: thick double #32a1ce;
+    
+}
+
+img {
+    display: block;
+    margin: 20pt auto; 
+    max-width: 100%;
+    
+    
+    
+
+}
+.common {
+    
+    color: black;
+    padding: 15px 0;
+    text-align: center;
+    font-size: 2em;
+    text-transform: unset;
+    border: 4mm ridge rgba(211, 220, 50, .6);
+        
+}
+.v{
+    mix-blend-mode:multiply ;
+}
+
+h5{
+    mix-blend-mode:multiply ;
+}
+
+
+
